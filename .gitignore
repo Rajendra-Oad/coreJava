@@ -1,3 +1,4 @@
 .metadata/
-bin/
+javaPractice/bin/
 *.class
+javaPractice/.settings/
