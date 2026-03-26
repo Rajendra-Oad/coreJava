@@ -1,1 +1,1 @@
-# this is java core practice
+# This is java core practice
